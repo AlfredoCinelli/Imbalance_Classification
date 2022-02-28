@@ -1,0 +1,7 @@
+# Exclude the undesired files
+
+# Exclude the .venv directory
+.venv/ 
+
+# Exclude the .vscode directory
+.vscode/
