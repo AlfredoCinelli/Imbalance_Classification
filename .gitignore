@@ -5,3 +5,9 @@
 
 # Exclude the .vscode directory
 .vscode/
+
+# Exclude the TDS directory
+tds_article_stuff/
+
+# Exclude checkpoints
+.ipynb_checkpoints/
